@@ -41,4 +41,4 @@ Copy UICollectionView+NSFetchedResultsController.h and UICollectionView+NSFetche
     
 # Credit
 
-Most of the logic for this is taken from [this gist](https://gist.github.com/4440c1cba83318e276bb).
+Most of the logic for this is taken from [this gist](https://gist.github.com/4440c1cba83318e276bb). Via [Ash Furrow](https://github.com/AshFurrow/UICollectionView-NSFetchedResultsController).
